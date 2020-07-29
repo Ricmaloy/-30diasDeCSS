@@ -43,6 +43,6 @@
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
-![Dia 01](https://imgur.com/a/Dsuqiu1)
+![Dia 01](https://i.imgur.com/2jBQn1g.gif)
 
 
