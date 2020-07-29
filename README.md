@@ -39,6 +39,10 @@
   
 ##### Vou atualizando aqui diariamente, qualquer dúvida estou a disposição 
 
-  Dia 01 - Ícone de mídia social em camadas
+* [Dia 01 - Ícone de mídia social em camadas](#id01)
+
+
+##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
+![Dia 01](https://imgur.com/a/Dsuqiu1)
 
 
