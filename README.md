@@ -32,10 +32,10 @@
 #### Novamente, todos os créditos à criadora do desafio 👉 [@MilenaCarecho](https://twitter.com/MilenaCarecho) 👈
 
 ## Minhas redes sociais
-  [@Facebook](https://www.facebook.com/ricardo.zamboni.142/)
-  [@LinkedIn](https://www.linkedin.com/in/ricardo-zamboni-3906471b3/)
-  [@GitHub](https://github.com/Ricmaloy)
-  [@Twitter](https://twitter.com/Ricardo_Zamboni)
+ * [@Facebook](https://www.facebook.com/ricardo.zamboni.142/)
+ * [@LinkedIn](https://www.linkedin.com/in/ricardo-zamboni-3906471b3/)
+ * [@GitHub](https://github.com/Ricmaloy)
+ * [@Twitter](https://twitter.com/Ricardo_Zamboni)
   
 ##### Vou atualizando aqui diariamente, qualquer dúvida estou a disposição 
 
