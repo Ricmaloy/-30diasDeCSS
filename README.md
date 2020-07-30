@@ -40,9 +40,29 @@
 ##### Vou atualizando aqui diariamente, qualquer dúvida estou a disposição 
 
 * [Dia 01 - Ícone de mídia social em camadas](#id01)
+* [Dia 02 - Loader animado](#id02)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 ![Dia 01](https://i.imgur.com/2jBQn1g.gif)
 
+##### O que eu aprendi
 
+
+* *Criar as camadas utilizando a tag `<span>`*
+* *[Transições CSS](https://www.w3schools.com/css/css3_transitions.asp)*
+* *[Opacidade / transparência do CSS](https://www.w3schools.com/css/css_image_transparency.asp)*
+* *[hover](https://www.w3schools.com/cssref/sel_hover.asp)*
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+
+
+##  Desafio dia 02 - Loader animado <a name="id02"></a>
+![Dia 02](https://i.imgur.com/o23iDx4.gif)
+
+##### O que eu aprendi
+
+
+* *sobrepor elementos utilizando posicionamento [absolute](https://www.w3schools.com/cssref/pr_class_position.asp)*
+* *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[@keyframe usando from to](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
+* *[clip-path: polygon()](https://www.w3schools.com/cssref/css3_pr_clip-path.asp)*
