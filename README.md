@@ -16,9 +16,9 @@
   * O projeto deve ser concluído até 23:59
 
   # Regras pra mim 
-  Vou aderir as regras tambem hihi, mas não é obrigação, fique à vontade para fazer o mesmo, se quiser!
+  Vou aderir as regras tambem hihi, mas vou fazer uma alteração, lembrando que não é obrigação, fique à vontade para fazer o mesmo, se quiser!
 
-  * Se eu não concluir o projeto do dia, as 5 primeiras pessoas a apontar no Twitter [@Ricardinho_tremetreme](https://twitter.com/Ricardo_Zamboni) receberão R$5 via PicPay (total    de R$25).Adicionando um pouco de motivação para mim! 💸
+  * Se eu não concluir o projeto do dia, as 5 primeiras pessoas a apontar no Twitter [@Ricardinho_tremetreme](https://twitter.com/Ricardo_Zamboni) eu vou somar R$5 (total de R$25) numa quantia e ao final dos 30 dias irei doar toda essa quantia a uma instituição(a ser definida ainda).Adicionando um pouco de motivação para mim! 💸
   
   Gostou da ideia? 
   [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
