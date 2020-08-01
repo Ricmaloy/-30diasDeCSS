@@ -66,3 +66,14 @@
 * *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[@keyframe usando from to](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
 * *[clip-path: polygon()](https://www.w3schools.com/cssref/css3_pr_clip-path.asp)*
+
+
+##  Desafio dia 03 - Mudança de cor de texto quando entra em outra div <a name="id03"></a>
+![Dia 03](https://i.imgur.com/pLgnnij.jpg)
+
+##### O que eu aprendi
+
+* *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[HTML video](https://www.w3schools.com/html/html5_video.asp)*
+* *[@keyframe usando from to](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
+* *[Overflow](https://www.w3schools.com/css/css_overflow.asp)*
