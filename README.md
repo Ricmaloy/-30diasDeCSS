@@ -69,7 +69,7 @@
 
 
 ##  Desafio dia 03 - Mudança de cor de texto quando entra em outra div <a name="id03"></a>
-![Dia 03](https://j.gifs.com/5QGL8X.gif)
+![Dia 03](gifs/giphy.gif)
 
 ##### O que eu aprendi
 
