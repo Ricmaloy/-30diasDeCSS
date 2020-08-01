@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+section {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    overflow: hidden;
+}
+
+section div {
+    position: relative;
+    width: 50%;
+    background-color: #204051;
+    overflow: hidden;
+}
+
+section div:nth-child(1){
+    position: relative;
+    width: 100%;
+    background: url(ftoLab.jpeg);
+    background-size: cover;
+    overflow: hidden;
+}
+
+.bg-video {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+section div:nth-child(1) h2 {
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: #fff;
+    -webkit-text-fill-color: transparent;
+    left: 100%;
+}
+
+section div h2 {
+    position: absolute;
+    white-space: nowrap;
+    font-size: 12em;
+    line-height: 100vh;
+    color: #fff;
+    animation: scrollText 45s linear infinite;
+}
+
+@keyframes scrollText {
+    from {
+        transform: translate(0);
+    }
+    to {
+        transform: translate(-100%);
+    }
+
+}
