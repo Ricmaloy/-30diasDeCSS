@@ -35,7 +35,6 @@ body {
     border-bottom-left-radius: 0;
     background: linear-gradient(to right, #ff5f6d, #ffc371);
     transform:  rotate(-45deg);
-    
     animation: UpDownCircle 2s linear infinite;
 }
 
