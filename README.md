@@ -41,6 +41,10 @@
 
 * [Dia 01 - Ícone de mídia social em camadas](#id01)
 * [Dia 02 - Loader animado](#id02)
+* [Dia 03 - Mudança de cor de texto quando entra em outra div](#id03)
+* [Dia 04 - Botão com efeito](#id04)
+* [Dia 05 - Efeito pulsar](#id05)
+
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -91,3 +95,14 @@
 * *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
 * *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
 * *[Overflow](https://www.w3schools.com/css/css_overflow.asp)*
+
+
+##  Desafio dia 05 - Efeito pulsar <a name="id05"></a>
+![Dia 05](https://i.imgur.com/jZIOslJ.gif)
+
+##### O que eu aprendi
+
+* *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[Opacidade / transparência do CSS](https://www.w3schools.com/css/css_image_transparency.asp)*
+* *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
+* *sobrepor elementos utilizando posicionamento [absolute](https://www.w3schools.com/cssref/pr_class_position.asp)*
