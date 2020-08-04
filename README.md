@@ -45,6 +45,7 @@
 * [Dia 04 - Botão com efeito](#id04)
 * [Dia 05 - Efeito pulsar](#id05)
 * [Dia 06 - Efeito lightning text](#id06)
+* [Dia 07 - Preloader animado](#id07)
 
 
 
@@ -118,3 +119,15 @@
 * *[Opacidade / transparência do CSS](https://www.w3schools.com/css/css_image_transparency.asp)*
 * *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+
+
+##  Desafio dia 07 - Preloader animado <a name="id07"></a>
+![Dia 07](https://i.imgur.com/LGQuSAo.gif)
+
+##### O que eu aprendi
+
+* *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *[transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+* *[transform: scale()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/scale)*
