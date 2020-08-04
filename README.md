@@ -44,6 +44,7 @@
 * [Dia 03 - Mudança de cor de texto quando entra em outra div](#id03)
 * [Dia 04 - Botão com efeito](#id04)
 * [Dia 05 - Efeito pulsar](#id05)
+* [Dia 06 - Efeito lightning text](#id06)
 
 
 
@@ -106,3 +107,14 @@
 * *[Opacidade / transparência do CSS](https://www.w3schools.com/css/css_image_transparency.asp)*
 * *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
 * *sobrepor elementos utilizando posicionamento [absolute](https://www.w3schools.com/cssref/pr_class_position.asp)*
+
+
+##  Desafio dia 06 - Efeito lightning text <a name="id06"></a>
+![Dia 06](https://i.imgur.com/jglVJFh.gif)
+
+##### O que eu aprendi
+
+* *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[Opacidade / transparência do CSS](https://www.w3schools.com/css/css_image_transparency.asp)*
+* *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
