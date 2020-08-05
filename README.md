@@ -142,3 +142,4 @@
 * *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
 * *[transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 * *[transform: scale()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/scale)*
+* *[Font Awesome](https://fontawesome.com/icons)*
