@@ -46,7 +46,7 @@
 * [Dia 05 - Efeito pulsar](#id05)
 * [Dia 06 - Efeito lightning text](#id06)
 * [Dia 07 - Preloader animado](#id07)
-
+* [Dia 08 - Coração batendo](#id08)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -129,5 +129,16 @@
 * *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *[transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+* *[transform: scale()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/scale)*
+
+
+##  Desafio dia 08 - Coração batendo <a name="id08"></a>
+![Dia 07](https://i.imgur.com/NidsuBx.gif)
+
+##### O que eu aprendi
+
+* *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
 * *[transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 * *[transform: scale()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/scale)*
