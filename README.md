@@ -47,6 +47,7 @@
 * [Dia 06 - Efeito lightning text](#id06)
 * [Dia 07 - Preloader animado](#id07)
 * [Dia 08 - Coração batendo](#id08)
+* [Dia 09 - Pêndulo de Newton](#id09)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -134,7 +135,7 @@
 
 
 ##  Desafio dia 08 - Coração batendo <a name="id08"></a>
-![Dia 07](https://i.imgur.com/NidsuBx.gif)
+![Dia 08](https://i.imgur.com/NidsuBx.gif)
 
 ##### O que eu aprendi
 
@@ -143,3 +144,15 @@
 * *[transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 * *[transform: scale()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/scale)*
 * *[Font Awesome](https://fontawesome.com/icons)*
+
+
+##  Desafio dia 09 - Pêndulo de Newton <a name="id09"></a>
+![Dia 09](https://i.imgur.com/1WKAlOF.gif)
+
+##### O que eu aprendi
+
+* *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
+* *[Display: flex](https://www.w3schools.com/css/css3_flexbox.asp)*
+* *[justify-content](https://www.w3schools.com/cssref/css3_pr_justify-content.asp)*
+* *[transform-origin](https://www.w3schools.com/cssref/css3_pr_transform-origin.asp)*
