@@ -1,0 +1,166 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(199, 123, 56);
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    border-top: 8px solid #f2f2f2;
+}
+
+.content span {
+    display: block;
+    width: 3px;
+    height: 280px;
+    background-color: #f2f2f2;
+    position: relative;
+    margin-top: -1px;
+    transform-origin: top;
+}
+
+
+/*      SIMULAÇAO COM 1 BOLA     */
+
+/*  Para simular com apenas 1 bola em movimento basta descomentar esse trecho do código,
+    apagando os o "/ *" e "* /" do começo e fim, respectivamente, do trecho abaixo.  */
+
+/*
+.content span:first-child {
+    animation: animatedLeft 2s linear infinite;
+}
+
+.content span:last-child {
+    animation: animatedRight 2s linear infinite 1s;
+}
+*/
+
+/*      SIMULAÇAO COM 2 BOLAS    */
+
+/*  Para simular com 2 bolas em movimento basta descomentar esse trecho do código,
+    apagando os "/ *" e "* /" do começo e fim, respectivamente,do trecho abaixo.  */
+
+
+.content span:nth-child(1),
+.content span:nth-child(2) {
+    animation: animatedLeft 2s linear infinite;
+}
+.content span:nth-child(4),
+.content span:nth-child(5) {
+    animation: animatedRight 2s linear infinite 1s;
+}
+
+
+
+/*      SIMULAÇAO COM 3 BOLAS   */
+
+/*  Para simular com 3 bolas em movimento basta descomentar esse trecho do código,
+    apagando os "/ *" e "* /" do começo e fim, respectivamente, do trecho abaixo.  */
+
+/*
+.content span:nth-child(1),
+.content span:nth-child(2) {
+    animation: animatedLeft 2s linear infinite;
+}
+
+.content span:nth-child(3) {
+    animation: animatedMiddle 2s linear infinite;
+}
+
+.content span:nth-child(4),
+.content span:nth-child(5) {
+    animation: animatedRight 2s linear infinite 1s;
+}
+*/
+
+
+/*      SIMULAÇAO COM 4 BOLAS   */
+
+/*  Para simular com 4 bolas em movimento basta descomentar esse trecho do código,
+    apagando esse texto e os "/ *" e "* /" do começo e fim, respectivamente.  */
+
+/*
+.content span:first-child {
+    animation: animatedLeft 2s linear infinite;
+}
+
+.content span:last-child {
+    animation: animatedRight 2s linear infinite 1s;
+}
+
+.content span:nth-child(2),
+.content span:nth-child(3),
+.content span:nth-child(4) {
+    animation: animatedMiddle 2s linear infinite;
+}
+*/
+
+.content span:after {
+    content: "";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #f2f2f2;
+    transform: translateX(-50%);
+}
+
+@keyframes animatedLeft {
+    0% { 
+        transform: rotate(0deg); 
+    }
+    25% { 
+        transform: rotate(50deg); 
+    }
+	50% { 
+        transform: rotate(0deg); 
+    }
+	100% { 
+        transform: rotate(0deg); 
+    }
+}
+
+@keyframes animatedRight {
+    0% { 
+        transform: rotate(0deg);
+    }
+    25% { 
+        transform: rotate(-50deg); 
+    }
+	50% { 
+        transform: rotate(0deg); 
+    }
+	100% { 
+        transform: rotate(0deg); 
+    }
+}
+
+@keyframes animatedMiddle {
+    0% { 
+        transform: rotate(0deg);
+    }
+    25% { 
+        transform: rotate(50deg); 
+    }
+	50% { 
+        transform: rotate(0deg); 
+    }
+    75% {
+        transform: rotate(-50deg); 
+    }
+	100% { 
+        transform: rotate(0deg); 
+    }
+}
