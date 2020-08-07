@@ -1,0 +1,99 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+}
+
+p {
+    font-family: 'Recursive', sans-serif;
+    border-right: 1px solid #000;
+    animation:  blink .6s linear infinite;
+}
+
+p::after {
+    content: '';
+    animation: animated 8s linear infinite;
+
+}
+
+@keyframes animated {
+    0% {content: '';}
+    2% {content: 'D';}
+    4% {content: 'De';}
+    6% {content: 'Des';}
+    8% {content: 'Desa';}
+    10% {content: 'Desaf';}
+    12% {content: 'Desafi';}
+    14% {content: 'Desafio';}
+    16% {content: 'Desafio ';}
+    18% {content: 'Desafio #';}
+    20% {content: 'Desafio #3';}
+    22% {content: 'Desafio #30';}
+    24% {content: 'Desafio #30d';}
+    26% {content: 'Desafio #30di';}
+    28% {content: 'Desafio #30dia';}
+    30% {content: 'Desafio #30dias';}
+    32% {content: 'Desafio #30diasD';}
+    34% {content: 'Desafio #30diasDe';}
+    36% {content: 'Desafio #30diasDeC';}
+    38% {content: 'Desafio #30diasDeCS';}
+    40% {content: 'Desafio #30diasDeCSS';}
+    46% {content: 'Desafio #30diasDeCSS';}
+    47% {content: 'Desafio #30diasDeCS';}
+    48% {content: 'Desafio #30diasDeC';}
+    49% {content: 'Desafio #30diasDe';}
+    50% {content: 'Desafio #30diasD';}
+    51% {content: 'Desafio #30dias';}
+    52% {content: 'Desafio #30dia';}
+    53% {content: 'Desafio #30di';}
+    54% {content: 'Desafio #30d';}
+    55% {content: 'Desafio #30';}
+    56% {content: 'Desafio #3';}
+    57% {content: 'Desafio #';}
+    58% {content: 'Desafio ';}
+    59% {content: 'Desafio';}
+    60% {content: 'Desafi';}
+    61% {content: 'Desaf';}
+    62% {content: 'Desa';}
+    63% {content: 'Des';}
+    64% {content: 'De';}
+    65% {content: 'D';}
+    66% {content: ' ';}
+    68% {content: 'F';}
+    70% {content: 'Fr';}
+    72% {content: 'Fro';}
+    74% {content: 'Fron';}
+    76% {content: 'Front ';}
+    78% {content: 'Front ';}
+    80% {content: 'Front ❤️';}
+    86% {content: 'Front ❤️';}
+    87% {content: 'Front ';}
+    89% {content: 'Front ';}
+    90% {content: 'Front';}
+    91% {content: 'Fron';}
+    92% {content: 'Fro';}
+    93% {content: 'Fr';}
+    94% {content: 'F';}
+    95% {content: ' ';}
+    100% {content: ' ';}
+}
+
+@keyframes blink {
+    0% {
+        border-right: none;
+    }
+    50% {
+        border-right: 1px solid #000;
+    }
+    100% {
+        border-right: none;
+    }
+}
