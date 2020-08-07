@@ -48,6 +48,7 @@
 * [Dia 07 - Preloader animado](#id07)
 * [Dia 08 - Coração batendo](#id08)
 * [Dia 09 - Pêndulo de Newton](#id09)
+* [Dia 10 - Animação texto alternando](#id10)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -156,3 +157,13 @@
 * *[Display: flex](https://www.w3schools.com/css/css3_flexbox.asp)*
 * *[justify-content](https://www.w3schools.com/cssref/css3_pr_justify-content.asp)*
 * *[transform-origin](https://www.w3schools.com/cssref/css3_pr_transform-origin.asp)*
+
+
+##  Desafio dia 10 - Animação texto alternando <a name="id10"></a>
+![Dia 10](https://i.imgur.com/EHNJbfz.gif)
+
+##### O que eu aprendi
+
+* *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
