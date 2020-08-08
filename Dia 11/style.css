@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #2c2c2c;
+}
+
+.btn {
+    text-transform: uppercase;
+    font-family: Roboto;
+    font-size: 20px;
+    letter-spacing: 1.5px;
+    padding: 25px 35px;
+    color: #f2f2f2;
+    background-color: transparent;
+    border: 1px solid rgba(178, 132, 81, 1);
+    box-shadow:  0px 2px 4px #000;
+    position: relative;
+    cursor: pointer;
+    outline: none;
+}
+
+.btn::before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 3px;
+    z-index: -1;
+    background-color: rgba(178, 132, 81, 1);
+    transform: scaleY(0);
+    transition: width .4s cubic-bezier(1,0,0,1) .2s,
+                background-color .1s,
+                transform .2s;
+}
+
+.btn:hover::before {
+    transform: scaleY(1);
+    width: 100%;
+}
+
