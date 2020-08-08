@@ -49,6 +49,7 @@
 * [Dia 08 - Coração batendo](#id08)
 * [Dia 09 - Pêndulo de Newton](#id09)
 * [Dia 10 - Animação texto alternando](#id10)
+* [Dia 11 - Botão com efeito hover](#id11)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -167,3 +168,13 @@
 * *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
 * *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+
+
+##  Desafio dia 11 - Botão com efeito hover <a name="id11"></a>
+![Dia 11](https://i.imgur.com/m0Wijoo.gif)
+
+##### O que eu aprendi
+
+* *[cubic-bezier](https://www.w3schools.com/cssref/func_cubic-bezier.asp)*
+* *[hover](https://www.w3schools.com/cssref/sel_hover.asp)*
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
