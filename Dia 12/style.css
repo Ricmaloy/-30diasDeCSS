@@ -26,7 +26,7 @@ span::before {
     left: 0;
     top: 0;
     width: 0%;
-    background-image: linear-gradient(to right, #7ed56f, #28b485);
+    background-image: linear-gradient(to right, #FF5F6D, #FFC371);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
