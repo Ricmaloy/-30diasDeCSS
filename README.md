@@ -182,7 +182,7 @@
 
 
 ##  Desafio dia 12 - Efeito de texto de preenchimento ao passar o mouse <a name="id12"></a>
-![Dia 12](https://i.imgur.com/AufRJBM.gif)
+![Dia 12](https://i.imgur.com/KWpbXfQ.gif)
 
 ##### O que eu aprendi
 
