@@ -50,6 +50,7 @@
 * [Dia 09 - Pêndulo de Newton](#id09)
 * [Dia 10 - Animação texto alternando](#id10)
 * [Dia 11 - Botão com efeito hover](#id11)
+* [Dia 12 - Efeito de texto de preenchimento ao passar o mouse](#id12)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -176,5 +177,15 @@
 ##### O que eu aprendi
 
 * *[cubic-bezier](https://www.w3schools.com/cssref/func_cubic-bezier.asp)*
+* *[hover](https://www.w3schools.com/cssref/sel_hover.asp)*
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+
+
+##  Desafio dia 12 - Efeito de texto de preenchimento ao passar o mouse <a name="id12"></a>
+![Dia 12](https://i.imgur.com/AufRJBM.gif)
+
+##### O que eu aprendi
+
+* *[background-clip](https://www.w3schools.com/cssref/css3_pr_background-clip.asp)*
 * *[hover](https://www.w3schools.com/cssref/sel_hover.asp)*
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
