@@ -51,6 +51,7 @@
 * [Dia 10 - Animação texto alternando](#id10)
 * [Dia 11 - Botão com efeito hover](#id11)
 * [Dia 12 - Efeito de texto de preenchimento ao passar o mouse](#id12)
+* [Dia 13 - Loading com efeito](#id13)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -189,3 +190,13 @@
 * *[background-clip](https://www.w3schools.com/cssref/css3_pr_background-clip.asp)*
 * *[hover](https://www.w3schools.com/cssref/sel_hover.asp)*
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+
+
+##  Desafio dia 13 - Loading com efeito <a name="id13"></a>
+![Dia 13](https://i.imgur.com/iSleaFD.gif)
+
+##### O que eu aprendi
+
+* *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
