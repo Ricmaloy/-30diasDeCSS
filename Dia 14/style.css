@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #f3f3f3;
+}
+
+span {
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 170px;
+    background: url(roses.jpeg);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-stroke: 1px black;
+    color: transparent;
+    animation: imageMove 15s linear infinite;
+}
+
+
+@keyframes imageMove {
+	from { 
+        background-position: 0% 50% 
+    }
+	to { 
+        background-position: 100% 50% 
+    }
+} 
