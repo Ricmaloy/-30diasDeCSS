@@ -52,6 +52,7 @@
 * [Dia 11 - Botão com efeito hover](#id11)
 * [Dia 12 - Efeito de texto de preenchimento ao passar o mouse](#id12)
 * [Dia 13 - Loading com efeito](#id13)
+* [Dia 14 - Fundo de texto animado](#id14)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -200,3 +201,14 @@
 * *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+
+
+##  Desafio dia 14 - Fundo de texto animado <a name="id14"></a>
+![Dia 14](https://i.imgur.com/yUHnbAz.gif)
+
+##### O que eu aprendi
+
+* *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
+* *[background-clip](https://www.w3schools.com/cssref/css3_pr_background-clip.asp)*
+* *[text-stroke](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke)*
