@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #151515;
+}
+
+button {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 300;
+    padding: 20px 30px;
+    border: none;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    color: #f2f2f2;
+    box-shadow: 15px 15px 1px #353535;
+    background: linear-gradient(to right ,#ffd89b, #cfae78,#3c94ce, rgb(0, 126, 126), rgb(0, 160, 163));
+    background-size: 500% 500%;
+    outline: none;
+    cursor: pointer;
+    transition: all .4s;
+}
+
+button:hover {
+    animation: animate 8s linear infinite;
+    box-shadow: 5px 5px 1px #353535;
+}
+
+@keyframes animate {
+    0% { background-position: 0% 0%; }
+    50% { background-position: 100% 0%; }
+    100% { background-position: 0% 0%; }
+  }
