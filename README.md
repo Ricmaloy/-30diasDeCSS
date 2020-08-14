@@ -55,6 +55,8 @@
 * [Dia 14 - Fundo de texto animado](#id14)
 * [Dia 15 - Texto flutuante](#id15)
 * [Dia 16 - Botão com efeito](#id16)
+* [Dia 16 - Loader animado](#id17)
+
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
