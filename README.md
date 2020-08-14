@@ -240,7 +240,7 @@
 
 
 ##  Desafio dia 17 - Loader animado <a name="id17"></a>
-![Dia 17](gifs/starwars.gif)
+![Dia 17](gifs/starWars.gif)
 
 ##### O que eu aprendi
 
