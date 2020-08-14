@@ -235,3 +235,14 @@
 * *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
 * *[box-shadow](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp)*
+
+
+##  Desafio dia 17 - Loader animado <a name="id17"></a>
+![Dia 17](gifs/starwars.gif)
+
+##### O que eu aprendi
+
+* *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[rotate()](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+* *[@font-face](https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp)*
+* *[@keyframe usando from to](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
