@@ -1,0 +1,100 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+
+.mountain {
+    background-image: url('mountain.png');
+    width: 225%;
+    height: 420px;
+    transform: translate(-45%, 330px) rotate(-30deg);
+    z-index: 2;
+}
+
+.glass {
+    width: 600px;
+    height: 600px;
+    background: linear-gradient(125deg, #000000 0%, #334c5f 100%);
+    border-radius: 50%;
+    clip-path: circle(50% at 50% 50%);
+    transform: rotate(30deg);
+}
+
+.meteor {
+    position: absolute;
+    top: 40%;
+    left: 20%;
+    height: 2px;
+    background: linear-gradient(-45deg, #ffed10, rgba(0, 0, 255, 0));
+    filter: drop-shadow(0 0 6px #ffed10);
+
+    animation: falling 3s linear infinite, animate 3s linear infinite;
+}
+
+.meteor:nth-child(1) {
+    top: 10%;
+    left: 0%;
+    animation-delay: .5s;
+}
+
+.meteor:nth-child(2) {
+    top: 20%;
+    left: -30%;
+    animation-delay: .2s;
+}
+
+.meteor:nth-child(3) {
+    top: 30%;
+    left: 25%;
+    animation-delay: 0s;
+}
+
+.meteor:nth-child(4) {
+    top: 40%;
+    left: -15%;
+    animation-delay: .6s;
+}
+
+.meteor:nth-child(5) {
+    top: 53%;
+    left: -45%;
+    animation-delay: 2.2s;
+}
+.meteor:nth-child(6) {
+    top: 65%;
+    left: -30%;
+    animation-delay: .1.2s;
+}
+
+.meteor::before,
+.meteor::after {
+    position: absolute;
+    content: '';
+    right: -1px;
+    top: -1px;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: linear-gradient(-45deg, rgba(0, 0, 255, 0), #ffed10, rgba(0, 0, 255, 0));
+}
+
+@keyframes falling {
+    0% { width: 0; }
+    30% { width: 150px; }
+    100% { width: 0; }
+}
+
+@keyframes animate {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(750px); }
+  }
