@@ -56,7 +56,8 @@
 * [Dia 15 - Texto flutuante](#id15)
 * [Dia 16 - Botão com efeito](#id16)
 * [Dia 17 - Loader animado](#id17)
-* [Dia 18 - Tesxto esfumaçado](#id18)
+* [Dia 18 - Texto esfumaçado](#id18)
+* [Dia 19 - Efeitos de animação fundo de partículas](#id19)
 
 
 
@@ -258,3 +259,14 @@
 
 * *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[blur()](https://www.w3schools.com/cssref/css3_pr_filter.asp)*
+
+
+##  Desafio dia 19 - Efeitos de animação fundo de partículas <a name="id19"></a>
+![Dia 19](https://i.imgur.com/T0S4cb0.gif)
+
+##### O que eu aprendi
+
+* *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
+* *[rotate()](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
