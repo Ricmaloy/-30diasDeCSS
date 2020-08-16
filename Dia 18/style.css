@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1a2f4e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.text {
+    font-family: 'Barlow';
+    font-size: 80px;
+    font-weight: 400;
+    letter-spacing: -5px;
+    color: #fff;
+    text-shadow: 4px 4px 5px #000;
+    cursor: pointer;
+}
+
+.text span {
+    transition: all .3s;
+}
+
+.text span:hover {
+    filter: blur(25px);
+}
