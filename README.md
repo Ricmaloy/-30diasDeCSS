@@ -55,7 +55,8 @@
 * [Dia 14 - Fundo de texto animado](#id14)
 * [Dia 15 - Texto flutuante](#id15)
 * [Dia 16 - Botão com efeito](#id16)
-* [Dia 16 - Loader animado](#id17)
+* [Dia 17 - Loader animado](#id17)
+* [Dia 18 - Tesxto esfumaçado](#id18)
 
 
 
@@ -248,3 +249,12 @@
 * *[rotate()](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 * *[@font-face](https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp)*
 * *[@keyframe usando from to](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
+
+
+##  Desafio dia 18 - Texto esfumaçado <a name="id18"></a>
+![Dia 18](https://i.imgur.com/S5ExhDx.gif)
+
+##### O que eu aprendi
+
+* *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[blur()](https://www.w3schools.com/cssref/css3_pr_filter.asp)*
