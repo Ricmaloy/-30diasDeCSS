@@ -59,6 +59,8 @@
 * [Dia 18 - Texto esfumaçado](#id18)
 * [Dia 19 - Efeitos de animação fundo de partículas](#id19)
 * [Dia 20 - Botão com efeito](#id20)
+* [Dia 21 - Esferas quicando](#id21)
+
 
 
 
@@ -282,3 +284,14 @@
 * *[hover](https://www.w3schools.com/cssref/sel_hover.asp)*
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
 * *[Opacidade / transparência do CSS](https://www.w3schools.com/css/css_image_transparency.asp)*
+
+
+##  Desafio dia 21 - Esferas quicando <a name="id21"></a>
+![Dia 21](https://i.imgur.com/wlpcO34.gif)
+
+##### O que eu aprendi
+
+* *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
