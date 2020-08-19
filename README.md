@@ -60,6 +60,7 @@
 * [Dia 19 - Efeitos de animação fundo de partículas](#id19)
 * [Dia 20 - Botão com efeito](#id20)
 * [Dia 21 - Esferas quicando](#id21)
+* [Dia 22 - Icones com efeito](#id22)
 
 
 
@@ -295,3 +296,13 @@
 * *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
 * *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+
+
+##  Desafio dia 22 - Icones com efeito <a name="id22"></a>
+![Dia 22](https://i.imgur.com/iW2Zmo9.gif)
+
+##### O que eu aprendi
+
+* *[hover](https://www.w3schools.com/cssref/sel_hover.asp)*
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
