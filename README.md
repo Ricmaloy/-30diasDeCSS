@@ -62,6 +62,7 @@
 * [Dia 21 - Esferas quicando](#id21)
 * [Dia 22 - Icones com efeito](#id22)
 * [Dia 23 - Botão com efeito hover](#id23)
+* [Dia 23 - Preloader animado](#id24)
 
 
 
@@ -316,3 +317,13 @@
 
 * *[hover](https://www.w3schools.com/cssref/sel_hover.asp)*
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+
+
+##  Desafio dia 24 - Preloader animado <a name="id24"></a>
+![Dia 24](https://i.imgur.com/h3ISsRQ.gif)
+
+##### O que eu aprendi
+
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
