@@ -1,0 +1,242 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    height: 100vh;
+}
+
+.preloader {
+    position: relative;
+    width: 216px;
+    height: 216px;
+}
+
+.preloader span {
+    position: relative;
+    width: 70px;
+    height: 70px;
+    display: block;
+    float: left;
+    border-radius: 5px;
+    background-color: #184969;
+    margin: 1px;
+}
+
+.preloader span:nth-child(1) {
+    transform: translate(72px, 72px);
+    animation: square1 5s infinite;
+}
+
+.preloader span:nth-child(2) {
+    transform: translate(0px, 72px);
+    animation: square2 5s infinite;
+}
+
+.preloader span:nth-child(3) {
+    transform: translate(-72px, 72px);
+    animation: square3 5s infinite;
+}
+
+.preloader span:nth-child(4) {
+    transform: translate(72px, 0px);
+    animation: square4 5s infinite;
+}
+
+.preloader span:nth-child(5) {
+    transform: translate(0px, 0px);
+}
+
+.preloader span:nth-child(6) {
+    transform: translate(-72px, 0px);
+    animation: square6 5s infinite;
+}
+
+.preloader span:nth-child(7) {
+    transform: translate(72px, -72px);
+    animation: square7 5s infinite;
+}
+
+.preloader span:nth-child(8) {
+    transform: translate(0px, -72px);
+    animation: square8 5s infinite;
+}
+
+.preloader span:nth-child(9) {
+    transform: translate(-72px, -72px);
+    animation: square9 5s infinite;
+}
+
+@keyframes square1 {
+    0% {
+        transform: translate(72px, 72px);
+    }
+    20% {
+        transform: translate(0px, 0px);
+    }
+    40% {
+        transform: translate(0px, 0px);
+    }
+    60% {
+        transform: translate(0px, 0px);
+    }
+    80% {
+        transform: translate(0px, 0px);
+    }
+    100% {
+        transform: translate(72px, 72px);
+    }
+}
+
+@keyframes square2 {
+    0% {
+        transform: translate(0px, 72px);
+    }
+    20% {
+        transform: translate(-72px, 0px);
+    }
+    40% {
+        transform: translate(0px, 0px);
+    }
+    60% {
+        transform: translate(0px, 0px);
+    }
+    80% {
+        transform: translate(0px, 0px);
+    }
+    100% {
+        transform: translate(0px, 72px);
+    }
+}
+
+@keyframes square3 {
+    0% {
+        transform: translate(-72px, 72px);
+    }
+    20% {
+        transform: translate(-142px, 0px);
+    }
+    40% {
+        transform: translate(-72px, 0px);
+    }
+    60% {
+        transform: translate(0px, 0px);
+    }
+    80% {
+        transform: translate(0px, 0px);
+    }
+    100% {
+        transform: translate(-72px, 72px);
+    }
+}
+
+@keyframes square4 {
+    0% {
+        transform: translate(72px, 0px);
+    }
+    20% {
+        transform: translate(142px, 72px);
+    }
+    40% {
+        transform: translate(72px, 72px);
+    }
+    60% {
+        transform: translate(0px, 72px);
+    }
+    80% {
+        transform: translate(0px, 0px);
+    }
+    100% {
+        transform: translate(72px, 0px);
+    }
+}
+
+@keyframes square6 {
+    0% {
+        transform: translate(-72px, 0px);
+    }
+    20% {
+        transform: translate(-142px, -72px);
+    }
+    40% {
+        transform: translate(-72px, -72px);
+    }
+    60% {
+        transform: translate(0px, -72px);
+    }
+    80% {
+        transform: translate(0px, 0px);
+    }
+    100% {
+        transform: translate(-72px, 0px);
+    }
+}
+
+@keyframes square7 {
+    0% {
+        transform: translate(72px, -72px);
+    }
+    20% {
+        transform: translate(142px, 0px);
+    }
+    40% {
+        transform: translate(72px, 0px);
+    }
+    60% {
+        transform: translate(0px, 0px);
+    }
+    80% {
+        transform: translate(0px, 0px);
+    }
+    100% {
+        transform: translate(72px, -72px);
+    }
+}
+
+@keyframes square8 {
+    0% {
+        transform: translate(0px, -72px);
+    }
+    20% {
+        transform: translate(72px, 0px);
+    }
+    40% {
+        transform: translate(0px, 0px);
+    }
+    60% {
+        transform: translate(0px, 0px);
+    }
+    80% {
+        transform: translate(0px, 0px);
+    }
+    100% {
+        transform: translate(0px, -72px);
+    }
+}
+
+@keyframes square9 {
+    0% {
+        transform: translate(-72px, -72px);
+    }
+    20% {
+        transform: translate(0, 0px);
+    }
+    40% {
+        transform: translate(0, 0px);
+    }
+    60% {
+        transform: translate(0, 0px);
+    }
+    80% {
+        transform: translate(0, 0px);
+    }
+    100% {
+        transform: translate(-72px, -72px);
+    }
+}
