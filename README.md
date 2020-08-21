@@ -61,6 +61,7 @@
 * [Dia 20 - Botão com efeito](#id20)
 * [Dia 21 - Esferas quicando](#id21)
 * [Dia 22 - Icones com efeito](#id22)
+* [Dia 23 - Botão com efeito hover](#id23)
 
 
 
@@ -306,3 +307,12 @@
 * *[hover](https://www.w3schools.com/cssref/sel_hover.asp)*
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
 * *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+
+
+##  Desafio dia 23 - Icones com efeito <a name="id23"></a>
+![Dia 23](https://i.imgur.com/GcMuxAm.gif)
+
+##### O que eu aprendi
+
+* *[hover](https://www.w3schools.com/cssref/sel_hover.asp)*
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
