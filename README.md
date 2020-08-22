@@ -62,8 +62,8 @@
 * [Dia 21 - Esferas quicando](#id21)
 * [Dia 22 - Icones com efeito](#id22)
 * [Dia 23 - Botão com efeito hover](#id23)
-* [Dia 23 - Preloader animado](#id24)
-
+* [Dia 24 - Preloader animado](#id24)
+* [Dia 25 - Checkbox animado](#id25)
 
 
 
@@ -327,3 +327,14 @@
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
 * *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
+
+
+##  Desafio dia 25 - Checkbox animado <a name="id25"></a>
+![Dia 25](https://i.imgur.com/qfy87GD.gif)
+
+##### O que eu aprendi
+
+* *[hover](https://www.w3schools.com/cssref/sel_hover.asp)*
+* *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
+* *[label](https://www.w3schools.com/tags/tag_label.asp)*
