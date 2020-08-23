@@ -340,7 +340,7 @@
 * *[label](https://www.w3schools.com/tags/tag_label.asp)*
 
 
-##  Desafio dia 26 - Checkbox animado <a name="id26"></a>
+##  Desafio dia 26 - Loading com efeito <a name="id26"></a>
 ![Dia 26](https://i.imgur.com/ZgtkUja.gif)
 
 ##### O que eu aprendi
