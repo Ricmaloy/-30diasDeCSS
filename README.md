@@ -64,7 +64,7 @@
 * [Dia 23 - Botão com efeito hover](#id23)
 * [Dia 24 - Preloader animado](#id24)
 * [Dia 25 - Checkbox animado](#id25)
-
+* [Dia 26 - Loading com efeito](#id26)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -338,3 +338,13 @@
 * *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
 * *[label](https://www.w3schools.com/tags/tag_label.asp)*
+
+
+##  Desafio dia 26 - Checkbox animado <a name="id26"></a>
+![Dia 26](https://i.imgur.com/ZgtkUja.gif)
+
+##### O que eu aprendi
+
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
