@@ -351,7 +351,7 @@
 * *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
 
 
-##  Desafio dia 27 - Loading com efeito <a name="id27"></a>
+##  Desafio dia 27 - Efeito pulsar <a name="id27"></a>
 ![Dia 27](https://i.imgur.com/H0dOTiy.gif)
 
 ##### O que eu aprendi
