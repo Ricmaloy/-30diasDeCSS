@@ -1,0 +1,168 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #e0e0e0;
+
+}
+
+.radar {
+    width: 450px;
+    height: 450px;
+    border-radius: 50%;
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 0px 10px 1px #000;
+}
+
+.glass {
+    width: 420px;
+    height: 420px;
+    border-radius: 50%;
+    background-color: rgba(45, 146, 45,1);
+    box-shadow: inset 0px 0px 10px 1px #000;
+
+    overflow: hidden;
+    position: relative;
+}
+
+.lines-h {
+    height: 100%;
+    opacity: .5;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.lines-v {
+    width: 100%;
+    height: 100%;
+    opacity: .5;
+    display: flex;
+    justify-content: space-around;
+    transform: translateY(-100%);
+}
+
+.line-h {
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #000;
+    z-index: 2;
+}
+
+.line-v {
+    display: block;
+    width: 2px;
+    height: 100%;
+    background-color: #000;
+    z-index: 2;
+}
+
+.mark {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: block;
+    width: 35px;
+    height: 35px;
+    background-color: red;
+    z-index: 3;
+    clip-path: polygon(50% 0%, 50% 0%, 100% 100%, 0% 100%);
+    animation: markerAnimate .8s linear infinite;
+}
+
+.pulsePoint {
+    display: block;
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 51%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 50%;
+    z-index: 2;
+    
+}
+
+.pulsePoint::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    border-radius: 50%;
+    border: 1px solid rgb(45, 194, 45);
+    z-index: -2;
+    animation: pulseEffect 2.5s linear infinite;
+}
+
+.dragonBall {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: yellow;
+    box-shadow: 0px 0px 20px 10px yellow;
+    z-index: 3;
+    opacity: 0;
+
+    animation: esfera 2.5s linear infinite;
+}
+
+.ball--1 {
+    top: 31%;
+    left: 17%;
+}
+
+.ball--2 {
+    top: 80%;
+    left: 56%;
+    animation-delay: .19s;
+}
+
+.ball--3 {
+    top: 19%;
+    left: 74%;
+    animation-delay: .1s;
+}
+
+@keyframes pulseEffect {
+    0% {
+        transform: scale(0);
+        opacity: 0;
+    }
+    80% {
+        transform: scale(0);
+        opacity: 1;
+    }
+    100% {
+        transform: scale(70);
+        opacity: 0;
+    }
+}
+
+@keyframes esfera {
+    0% { opacity: 0; }
+    80% { opacity: 0; }
+    90% { opacity: 1; }
+    100% { opacity: 0; }
+}
+
+@keyframes markerAnimate {
+    0% { opacity: 1; }
+    50% {opacity: 0; }
+    100% { opacity: 1; }
+}
