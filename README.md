@@ -65,6 +65,7 @@
 * [Dia 24 - Preloader animado](#id24)
 * [Dia 25 - Checkbox animado](#id25)
 * [Dia 26 - Loading com efeito](#id26)
+* [Dia 27 - Efeito pulsar](#id27)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -346,5 +347,15 @@
 ##### O que eu aprendi
 
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
+
+
+##  Desafio dia 27 - Loading com efeito <a name="id27"></a>
+![Dia 27](https://i.imgur.com/H0dOTiy.gif)
+
+##### O que eu aprendi
+
+* *[Opacidade / transparência do CSS](https://www.w3schools.com/css/css_image_transparency.asp)*
 * *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
