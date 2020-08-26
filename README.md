@@ -66,6 +66,7 @@
 * [Dia 25 - Checkbox animado](#id25)
 * [Dia 26 - Loading com efeito](#id26)
 * [Dia 27 - Efeito pulsar](#id27)
+* [Dia 27 - Cor do background mudando](#id28)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -357,5 +358,15 @@
 ##### O que eu aprendi
 
 * *[Opacidade / transparência do CSS](https://www.w3schools.com/css/css_image_transparency.asp)*
+* *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
+
+
+##  Desafio dia 28 - cor do background mudando <a name="id28"></a>
+![Dia 28](gifs/backgroundColor.gif)
+
+##### O que eu aprendi
+* *[linear-gradient()](https://www.w3schools.com/css/css3_gradients.asp)*
+* *[background-position](https://www.w3schools.com/cssref/pr_background-position.asp)*
 * *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
