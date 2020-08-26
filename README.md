@@ -362,7 +362,7 @@
 * *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
 
 
-##  Desafio dia 28 - cor do background mudando <a name="id28"></a>
+##  Desafio dia 28 - Cor do background mudando <a name="id28"></a>
 ![Dia 28](gifs/backgroundColor.gif)
 
 ##### O que eu aprendi
