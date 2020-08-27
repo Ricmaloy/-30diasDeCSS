@@ -66,7 +66,8 @@
 * [Dia 25 - Checkbox animado](#id25)
 * [Dia 26 - Loading com efeito](#id26)
 * [Dia 27 - Efeito pulsar](#id27)
-* [Dia 27 - Cor do background mudando](#id28)
+* [Dia 28 - Cor do background mudando](#id28)
+* [Dia 29 - Menu responsivo com Media Queries](#id29)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -370,3 +371,14 @@
 * *[background-position](https://www.w3schools.com/cssref/pr_background-position.asp)*
 * *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
+
+
+##  Desafio dia 29 - Menu responsivo com Media Queries <a name="id29"></a>
+![Dia 29](https://i.imgur.com/XJadeEv.gif)
+
+##### O que eu aprendi
+* *[linear-gradient()](https://www.w3schools.com/css/css3_gradients.asp)*
+* *[background-position](https://www.w3schools.com/cssref/pr_background-position.asp)*
+* *[media querie](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)*
+* *[hover](https://www.w3schools.com/cssref/sel_hover.asp)*
+* *[cubic-bezier](https://www.w3schools.com/cssref/func_cubic-bezier.asp)*
