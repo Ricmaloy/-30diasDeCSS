@@ -68,6 +68,7 @@
 * [Dia 27 - Efeito pulsar](#id27)
 * [Dia 28 - Cor do background mudando](#id28)
 * [Dia 29 - Menu responsivo com Media Queries](#id29)
+* [Dia 30 - Fogos de artificio](#id30)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -382,3 +383,12 @@
 * *[media querie](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)*
 * *[hover](https://www.w3schools.com/cssref/sel_hover.asp)*
 * *[cubic-bezier](https://www.w3schools.com/cssref/func_cubic-bezier.asp)*
+
+
+##  Desafio dia 30 - Menu responsivo com Media Queries <a name="id30"></a>
+![Dia 30](https://i.imgur.com/rUMPrmQ.gif)
+
+##### O que eu aprendi
+* *[Animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[@keyframe](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)*
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
