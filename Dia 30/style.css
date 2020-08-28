@@ -1,0 +1,133 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #fd5555
+}
+
+.firework {
+    position: absolute;
+}
+
+.firework--1 {
+    transform: rotate(-10deg);
+    top: 45%;
+    left: 35%;
+}
+
+.firework--2 {
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.firework--3 {
+    transform: rotate(15deg);
+    top: 40%;
+    left: 60%;
+}
+
+.spark {
+    position: absolute;
+    left: -2px;
+    bottom: 0;
+    width: 4px;
+    height: 70px;
+    transform-origin: 50% 100%;
+    transform-origin: bottom;
+    overflow: hidden;
+}
+
+.thin {
+    position: absolute;
+    left: -2px;
+    top: 100%;
+    width: 4px;
+    height: 410px;
+    overflow: hidden;
+}
+
+.spark:nth-child(1) {
+    transform: rotate(0deg) translateY(-2px);
+}
+.spark:nth-child(2) {
+    transform: rotate(40deg) translateY(-2px);
+}
+.spark:nth-child(3) {
+    transform: rotate(80deg) translateY(-2px);
+}
+.spark:nth-child(4) {
+    transform: rotate(120deg) translateY(-2px);
+}
+.spark:nth-child(5) {
+    transform: rotate(160deg) translateY(-2px);
+}
+.spark:nth-child(6) {
+    transform: rotate(200deg) translateY(-2px);
+}
+.spark:nth-child(7) {
+    transform: rotate(240deg) translateY(-2px);
+}
+.spark:nth-child(8) {
+    transform: rotate(280deg) translateY(-2px);
+}
+.spark:nth-child(9) {
+    transform: rotate(320deg) translateY(-2px);
+}
+.spark:nth-child(10) {
+    transform: rotate(360deg) translateY(-2px);
+}
+
+.thin::before {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    height: 40px;
+    background-color: #fff;
+    animation: thinfire 2s  ease-in-out infinite;
+}
+
+.firework--1 .thin::before {
+    animation-delay: .4s;
+}
+.firework--1 .spark::before {
+    animation-delay: 1s;
+}
+
+.firework--3 .thin::before {
+    animation-delay: .9s;
+}
+.firework--3 .spark::before {
+    animation-delay: 1.5s;
+}
+
+.spark::before {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    height: 40px;
+    border-radius: 50px;
+    background-color: #fff;
+    animation: fire 2s .6s ease-in-out infinite;
+}
+
+@keyframes fire {
+    0% { top: 100%;}
+    33%, 100% { top: -60%; }
+}
+
+@keyframes thinfire {
+    0% { top: 100%; }
+    33%, 100% { top: -10%; }
+}
