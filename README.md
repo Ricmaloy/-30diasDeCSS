@@ -385,7 +385,7 @@
 * *[cubic-bezier](https://www.w3schools.com/cssref/func_cubic-bezier.asp)*
 
 
-##  Desafio dia 30 - Menu responsivo com Media Queries <a name="id30"></a>
+##  Desafio dia 30 - Fogos de artificio <a name="id30"></a>
 ![Dia 30](https://i.imgur.com/rUMPrmQ.gif)
 
 ##### O que eu aprendi
