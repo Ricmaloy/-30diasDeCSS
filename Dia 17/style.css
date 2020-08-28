@@ -218,12 +218,16 @@ body {
     animation: shadowMove 5s linear infinite;
 }
 .sun {
-    width: 50px;
-    height: 50px;
+    width: 65px;
+    height: 65px;
+    background-color: white;
     border-radius: 50%;
     position: absolute;
-    left: 500px;
-    top: 190px;
+    box-shadow: 0px 0px 15px 15px rgba(255,255,255, .8);
+    left: 615px;
+    top: 235px;
+    top: 25%;
+    left: 36%;
 }
 
 .sun::before {
